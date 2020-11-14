@@ -106,8 +106,8 @@ a {
 
 .hero-text {
   background: linear-gradient(
-    rgba(105, 211, 252, 0.25) 0%,
-    rgba(255, 116, 161, 0.25) 86%,
+    rgba(1, 1, 1, 0.25) 0%,
+    rgba(1, 1, 1, 0.25) 86%,
     rgba(1, 0, 0, 0.50) 100%
   );
   background-size: cover;
