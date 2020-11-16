@@ -108,18 +108,26 @@ a {
   z-index: 4;
 }
 
+.comingSoon {
+  top: 65%;
+  left: 60%;
+  transform: translateZ(-150px) scale(1.833333333);
+  z-index: 5;
+}
+
 .people2 {
   background: url('../img/mountain.png') no-repeat center;
   background-size: cover;
   transform: translateZ(-125px) scale(1.4167);
-  z-index: 5;
+  z-index: 6;
 }
+
 
 .people3 {
   background: url('../img/bottom.png') no-repeat center;
   background-size: cover;
   transform: translateZ(0) scale(1);
-  z-index: 6;
+  z-index: 7;
 }
 
 .hero-text {
@@ -161,7 +169,7 @@ a {
 .year-container {
   position: absolute;
   left: 50%;
-  top: 50%;
+  top: 55%;
   transform: translate(-50%, -50%);
   width: 17rem;
   height: 25rem;
@@ -182,21 +190,18 @@ h3 {
 }
 
 .year-container h1:nth-of-type(1) {
-  top: 15%;
   right: -10%;
   z-index: 1;
 
 }
 
 .year-container h1:nth-of-type(2) {
-  top: 15%;
   right: -8%;
   color: blue; 
   opacity: 50%;
 }
 
 .year-container h1:nth-of-type(3) {
-  top: 15%;
   right: -12%;
   color: red;
   opacity: 50%;
