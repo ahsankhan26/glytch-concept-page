@@ -1,19 +1,19 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap');
 
+
+/* for custom fonts */
 @font-face {
   font-family: Bebas;
   src: url('../fonts/BebasKai-Regular.otf');
 }
 
-/* for custom fonts
 @font-face {
   font-family: 'doctor';
   src: url('../fonts/Doctor-Glitch.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
+  /* font-weight: normal;
+  font-style: normal; */
 
-} */
-
+}
 
 
 * {
@@ -109,9 +109,9 @@ a {
 }
 
 .comingSoon {
-  top: 65%;
-  left: 60%;
-  transform: translateZ(-150px) scale(1.833333333);
+  top: 67%;
+  left: 63%;
+  transform: translateZ(-150px) scale(2.2);
   z-index: 5;
 }
 
@@ -164,6 +164,10 @@ a {
 
 .hero-text ul li:nth-of-type(3) {
   visibility: visible;
+}
+
+#navbarBrand {
+  font-family: 'doctor';
 }
 
 .year-container {
