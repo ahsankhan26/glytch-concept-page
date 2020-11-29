@@ -1,3 +1,3 @@
 # glytch-landing-page
 
-<a href="glytch.digital">Glytch.digital</a>
+<a href="https://glytch.digital">glytch.digital</a>
