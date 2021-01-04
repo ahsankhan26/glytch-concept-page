@@ -10,9 +10,6 @@
 @font-face {
   font-family: 'doctor';
   src: url('../fonts/Doctor-Glitch.woff') format('woff');
-  /* font-weight: normal;
-  font-style: normal; */
-
 }
 
 
@@ -86,13 +83,6 @@ a {
   transform: translateZ(-600px) scale(3);
   z-index: 1;
 }
-
-/* .bushes {
-  background: url('../img/bushes.png') no-repeat center;
-  background-size: cover;
-  transform: translateZ(-525px) scale(2.75);
-  z-index: 2;
-} */
 
 .water {
   background: url('../img/sun.png') no-repeat center;
@@ -294,15 +284,3 @@ h3 {
     background-size: contain;
   }
 }
-
-/* @media (min-width: 1126px) {
-  .sky,
-  .bushes,
-  .water,
-  .people1,
-  .people2,
-  .people3,
-  .hero-text {
-    background-size: contain;
-  }
-} */
