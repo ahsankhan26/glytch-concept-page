@@ -1,3 +1,11 @@
-# glytch-landing-page
+<h1 id="title" align="center">
+Glytch Concept Landing Page
+</h1>
 
-<a href="https://glytch.digital">glytch.digital</a>
+<p align="center">
+A concept landing page with Parallax Effect made with HTML and CSS
+</p>
+
+<p align="center">
+<a href="https://ahsankhan.me/glytch-concept-page/">View Demo</a>
+</p>
